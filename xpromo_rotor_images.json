@@ -1,0 +1,102 @@
+{
+    "checksum": "D7B3CBA961938EDE65D069E014FF54F3F75F5F4B",
+    "content": {
+        "images": [
+            {
+                "filename": "CrossPromo_eni1.png",
+                "id": "eni1",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_nftd1.png",
+                "id": "nftd1",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_da1.png",
+                "id": "da1",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_abyss1.png",
+                "id": "abyss1",
+                "version": 3
+            },
+            {
+                "filename": "CrossPromo_nftd2.png",
+                "id": "nftd2",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_nc1.png",
+                "id": "nc1",
+                "version": 7
+            },
+            {
+                "filename": "CrossPromo_eni2.png",
+                "id": "eni2",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_ct1.png",
+                "id": "ct1",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_litd1.png",
+                "id": "litd1",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_gl1.png",
+                "id": "gl1",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_ms1.png",
+                "id": "ms1",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_nftd3.png",
+                "id": "nftd3",
+                "version": 2
+            },
+            {
+                "filename": "CrossPromo_tm2.png",
+                "id": "tm2",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_dp1.png",
+                "id": "dp1",
+                "version": 2
+            },
+            {
+                "filename": "CrossPromo_tm3.png",
+                "id": "tm3",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_nc2.png",
+                "id": "nc2",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_gl2.png",
+                "id": "gl2",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_tm1.png",
+                "id": "tm1",
+                "version": 1
+            },
+            {
+                "filename": "CrossPromo_dh1.png",
+                "id": "dh1",
+                "version": 2
+            }
+        ]
+    }
+}

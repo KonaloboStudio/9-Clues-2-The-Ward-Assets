@@ -1,0 +1,16 @@
+<loadinfo>
+	<languages>
+		<lang name="en"/>
+		<lang name="fr"/>
+		<lang name="de"/>
+		<lang name="es"/>
+		<lang name="pt"/>
+		<lang name="pl"/>
+		<lang name="ja"/>
+		<lang name="ko"/>
+		<lang name="zh"/>
+		<lang name="ru"/>
+		<lang name="it"/>
+	</languages>
+	<device name="windows"/>
+</loadinfo>

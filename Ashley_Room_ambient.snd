@@ -1,0 +1,35 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+
+    <CSoundContainer>
+
+
+
+		<CRandomContainer Looped="true" DelayMin="2" DelayMax="9" WaitAfterMin="2" WaitAfterMax="9">
+
+
+			<CSample>
+			   <CSampleFile Pan="-0.100" Pitch="0.700" Volume="0.400" 
+	FileName="ambient_rustling_3.wav" ></CSampleFile>
+			</CSample>
+
+			<CSample>
+			   <CSampleFile Pan="-0.500" Pitch="1.300" Volume="0.600" 
+	FileName="bird_squawk_ashley_room_cage.wav" ></CSampleFile>
+			</CSample>
+
+				<CSample>
+			   <CSampleFile Pan="0.500" Pitch="1.300" Volume="0.600" 
+	FileName="ambient_step_4.3.wav" ></CSampleFile>
+			</CSample>
+
+					<CSample>
+			   <CSampleFile Pan="-0.500" Pitch="0.800" Volume="0.600" 
+	FileName="bird_squawk_ashley_room_cage.wav" ></CSampleFile>
+			</CSample>
+
+		
+		</CRandomContainer>
+
+
+    </CSoundContainer>
+</Sound>

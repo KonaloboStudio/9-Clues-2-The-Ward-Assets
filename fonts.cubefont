@@ -1,0 +1,502 @@
+<fontscript>
+	<font gensize="20" name="achi_progress" size="20" source="LiberationSerif-Italic.ttf"/>
+	<font gensize="20" name="achi_text" size="20" source="LiberationSerif-Italic.ttf"/>
+	<font gensize="30" name="achi_title" size="30" source="LiberationSerif-Italic.ttf"/>
+	<font gensize="18" name="achi_title_small" size="18" source="LiberationSerif-Italic.ttf"/>
+	<font gensize="18" name="Asylum_Info_18" size="18" source="LiberationSerif-Italic.ttf"/>
+	<font gensize="20" name="Asylum_Info_20" size="20" source="LiberationSerif-Italic.ttf"/>
+	<font gensize="24" name="Asylum_Info_24" size="24" source="LiberationSerif-Italic.ttf"/>
+	<font gensize="30" name="Asylum_Info_30" size="30" source="LiberationSerif-Italic.ttf"/>
+	<font gensize="40" name="Asylum_Info_40" size="40" source="LiberationSerif-Italic.ttf"/>
+	<font gensize="30" name="Credits_Name" size="30" source="GentiumPlus-I.ttf"/>
+	<font gensize="40" name="Credits_Position" size="40" source="Alegreya-Bold.ttf"/>
+	<font gensize="40" name="Discount_Label" shadowcolor="1:0.3:0.15:1" shadowoffset="2:2" size="40" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="20" name="Discount_Label_Percent" shadowcolor="1:0.3:0.15:1" shadowoffset="1:1" size="20" source="LiberationSerif-Bold.ttf"/>
+	<font baselineyoffset="8" gensize="70" name="GUI_Act" size="70" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="20" lineheight="32" name="GUI_BlackBars" size="20" source="Alegreya-Regular.ttf"/>
+	<font baselineyoffset="5" gensize="32" name="GUI_Button" size="32" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="3" gensize="25" name="GUI_Button_Medium" size="25" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="5" gensize="32" name="GUI_Button_Rate" size="32" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="3" gensize="22" name="GUI_Button_Small" size="22" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="16" lineheight="23" name="GUI_Clue_Name" size="16" source="Alegreya-Regular.ttf"/>
+	<font gensize="22" name="GUI_CursorContext" size="22" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" name="GUI_Dialogs_Corrupted_Profile" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="28" lineheight="42" name="GUI_Dialogs_Text" size="28" source="Alegreya-Regular.ttf"/>
+	<font gensize="22" name="GUI_Difficulty_Text" size="22" source="Alegreya-Regular.ttf"/>
+	<font gensize="30" name="GUI_Difficulty_Title" size="30" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" lineheight="28" name="GUI_Help_Text" size="18" source="Alegreya-Regular.ttf"/>
+	<font baselineyoffset="3" gensize="20" name="GUI_Help_Title" size="20" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="16" name="GUI_Item_Name" size="16" source="Alegreya-Regular.ttf"/>
+	<font gensize="40" name="GUI_Loading" size="40" source="Alegreya-Regular.ttf"/>
+	<font baselineyoffset="3" gensize="18" name="GUI_New_Item_Name" size="18" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="3" gensize="20" name="GUI_New_Item_Title" size="20" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="3" gensize="18" lineheight="27" name="GUI_Options_Text" size="18" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="18" name="GUI_Paywall_Text" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="30" name="Handwrite_Ashley_30" size="30" source="CoveredByYourGrace.ttf"/>
+	<font gensize="40" name="Handwrite_Ashley_40" size="40" source="CoveredByYourGrace.ttf"/>
+	<font gensize="20" name="Handwrite_Crow_20" size="20" source="GentiumPlus-I.ttf"/>
+	<font gensize="24" lineheight="38" name="Handwrite_Crow_24" size="24" source="GentiumPlus-I.ttf"/>
+	<font gensize="30" name="Handwrite_Crow_30" size="30" source="GentiumPlus-I.ttf"/>
+	<font gensize="20" name="Handwrite_Ginger_20" size="20" source="ShadowsIntoLightTwo-Regular.ttf"/>
+	<font gensize="20" name="Handwrite_Gordon_20" size="20" source="CoveredByYourGrace.ttf"/>
+	<font gensize="24" name="Handwrite_Gordon_24" size="24" source="CoveredByYourGrace.ttf"/>
+	<font gensize="24" name="Handwrite_Gordon_24_List" size="24" source="CoveredByYourGrace.ttf"/>
+	<font gensize="30" name="Handwrite_Gordon_30" size="30" source="CoveredByYourGrace.ttf"/>
+	<font gensize="50" name="Handwrite_Gordon_50" size="50" source="CoveredByYourGrace.ttf"/>
+	<font gensize="24" name="Handwrite_Kreuz_24" size="24" source="MarckScript-Regular.ttf"/>
+	<font baselineyoffset="3" gensize="18" name="HUD_Click_To_Continue" size="18" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="24" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="3" gensize="20" name="HUD_ItemName" size="20" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="24" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="18" lineheight="26" name="HUD_Minigame_Instructions" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="20" name="HUD_Objective_Info" size="20" source="Alegreya-Regular.ttf"/>
+	<font gensize="24" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="3" gensize="24" name="HUD_Skip_Cutscene" size="24" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="20" name="HUD_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="3" gensize="20" name="Journal_Buttons" size="20" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="18" lineheight="27" name="Journal_Clue_Text" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="24" name="Journal_Clue_Title" size="24" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" lineheight="27" name="Journal_Objective_Text" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="24" name="Journal_Objective_Title" size="24" source="Alegreya-Regular.ttf"/>
+	<font gensize="30" name="Journal_People_Name" size="30" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" lineheight="27" name="Journal_People_Text" size="18" source="Alegreya-Regular.ttf"/>
+	<font baselineyoffset="3" gensize="25" name="MG_Mahjong_Text" size="25" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="5" gensize="32" name="MM_Button" size="32" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="3" gensize="25" name="MM_Button_Medium" size="25" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="5" gensize="32" name="MM_Unlock" size="32" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font baselineyoffset="3" gensize="25" lineheight="31" name="MM_Welcome" size="25" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="18" name="Newspaper_Date" size="18" source="Alegreya-Bold.ttf"/>
+	<font gensize="20" name="Newspaper_Name" size="20" source="Alegreya-Bold.ttf"/>
+	<font gensize="18" name="Newspaper_Text" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" name="Newspaper_Title" size="18" source="Alegreya-Bold.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_subtitle" size="22" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:1" shadowoffset="0:2" size="16" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="16" name="Pac_dialog_text" size="16" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="22" name="Pac_dialog_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="22" name="Paywall_BulletPoints" size="22" source="Alegreya-Regular.ttf"/>
+	<font gensize="30" name="PageCounter" size="30" source="Alegreya-Regular.ttf"/>
+	<font gensize="25" name="ProfileName" size="25" source="Alegreya-Regular.ttf"/>
+	<font gensize="24" name="rotor_discount_label_large" shadowcolor="0.498039:0:0.576471:1" shadowoffset="2:2" size="24" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="20" lineheight="30" name="Tutorial_only_mid" size="20" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" name="tutorial_skip" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="24" name="tutorial_yes_no" size="24" source="Alegreya-Regular.ttf"/>
+	<language name="de">
+		<font baselineyoffset="5" gensize="25" name="MM_Unlock" size="25" source="CrimsonText-SemiboldItalic.ttf"/>
+	</language>
+	<language name="ja">
+		<font gensize="20" name="achi_progress" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="achi_text" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="achi_title" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="achi_title_small" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Asylum_Info_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Asylum_Info_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Asylum_Info_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Asylum_Info_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="40" name="Asylum_Info_40" size="40" source="KozGoPro-Regular.ttf"/>
+		<font gensize="40" name="Credits_Position" size="40" source="KozGoPro-Regular.ttf"/>
+		<font gensize="70" name="GUI_Act" size="70" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="GUI_BlackBars" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="32" name="GUI_Button" size="32" source="KozGoPro-Regular.ttf"/>
+		<font gensize="25" name="GUI_Button_Medium" size="25" source="KozGoPro-Regular.ttf"/>
+		<font gensize="27" name="GUI_Button_Rate" size="27" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="GUI_Button_Small" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="GUI_Clue_Name" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="GUI_CursorContext" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="GUI_Dialogs_Corrupted_Profile" size="18" source="KozGoPro-Regular.ttf"/>
+		<font baselineyoffset="-2" gensize="28" name="GUI_Dialogs_Text" size="28" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="GUI_Difficulty_Text" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="GUI_Difficulty_Title" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="GUI_Help_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="GUI_Help_Title" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="15" name="GUI_Item_Name" size="15" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="GUI_Loading" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="GUI_New_Item_Name" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="GUI_New_Item_Title" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="GUI_Options_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="GUI_Paywall_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Handwrite_Ashley_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="40" name="Handwrite_Ashley_40" size="40" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Handwrite_Crow_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Handwrite_Crow_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Handwrite_Crow_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Handwrite_Ginger_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Handwrite_Gordon_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Handwrite_Gordon_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Handwrite_Gordon_24_List" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Handwrite_Gordon_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="50" name="Handwrite_Gordon_50" size="50" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Handwrite_Kreuz_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="HUD_Click_To_Continue" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="HUD_ItemName" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="HUD_Minigame_Instructions" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="HUD_Objective_Info" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="HUD_Skip_Cutscene" size="24" source="KozGoPro-Regular.ttf"/>
+		<font baselineyoffset="-4" gensize="20" name="HUD_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Journal_Buttons" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Journal_Clue_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Journal_Clue_Title" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Journal_Objective_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Journal_Objective_Title" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Journal_People_Name" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Journal_People_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="25" name="MG_Mahjong_Text" size="25" source="KozGoPro-Regular.ttf"/>
+		<font gensize="32" name="MM_Button" size="32" source="KozGoPro-Regular.ttf"/>
+		<font gensize="25" name="MM_Button_Medium" size="25" source="KozGoPro-Regular.ttf"/>
+		<font gensize="28" name="MM_Unlock" size="28" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="MM_Welcome" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Newspaper_Date" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Newspaper_Name" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Newspaper_Text" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Newspaper_Title" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:1" shadowoffset="0:2" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Paywall_BulletPoints" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="ProfileName" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="rotor_discount_label_large" shadowcolor="0.498039:0:0.576471:1" shadowoffset="2:2" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Tutorial_only_mid" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="tutorial_skip" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="tutorial_yes_no" size="24" source="KozGoPro-Regular.ttf"/>
+	</language>
+	<language name="ko">
+		<font gensize="20" name="achi_progress" size="20" source="NanumGothic.ttf"/>
+		<font gensize="20" name="achi_text" size="20" source="NanumGothic.ttf"/>
+		<font gensize="30" name="achi_title" size="30" source="NanumGothic.ttf"/>
+		<font gensize="18" name="achi_title_small" size="18" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Asylum_Info_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Asylum_Info_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Asylum_Info_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Asylum_Info_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="40" name="Asylum_Info_40" size="40" source="NanumGothic.ttf"/>
+		<font gensize="40" name="Credits_Position" size="40" source="NanumGothic.ttf"/>
+		<font gensize="70" name="GUI_Act" size="70" source="NanumGothic.ttf"/>
+		<font gensize="20" name="GUI_BlackBars" size="20" source="NanumGothic.ttf"/>
+		<font gensize="32" name="GUI_Button" size="32" source="NanumGothic.ttf"/>
+		<font gensize="25" name="GUI_Button_Medium" size="25" source="NanumGothic.ttf"/>
+		<font gensize="32" name="GUI_Button_Rate" size="32" source="NanumGothic.ttf"/>
+		<font gensize="22" name="GUI_Button_Small" size="22" source="NanumGothic.ttf"/>
+		<font gensize="16" name="GUI_Clue_Name" size="16" source="NanumGothic.ttf"/>
+		<font gensize="20" name="GUI_CursorContext" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="GUI_Dialogs_Corrupted_Profile" size="18" source="NanumGothic.ttf"/>
+		<font baselineyoffset="-4" gensize="28" name="GUI_Dialogs_Text" size="28" source="NanumGothic.ttf"/>
+		<font gensize="22" name="GUI_Difficulty_Text" size="22" source="NanumGothic.ttf"/>
+		<font gensize="30" name="GUI_Difficulty_Title" size="30" source="NanumGothic.ttf"/>
+		<font gensize="18" name="GUI_Help_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="GUI_Help_Title" size="20" source="NanumGothic.ttf"/>
+		<font gensize="15" name="GUI_Item_Name" size="15" source="NanumGothic.ttf"/>
+		<font gensize="30" name="GUI_Loading" size="30" source="NanumGothic.ttf"/>
+		<font gensize="18" name="GUI_New_Item_Name" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="GUI_New_Item_Title" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="GUI_Options_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="18" name="GUI_Paywall_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Handwrite_Ashley_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="40" name="Handwrite_Ashley_40" size="40" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Handwrite_Crow_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Handwrite_Crow_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Handwrite_Crow_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Handwrite_Ginger_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Handwrite_Gordon_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Handwrite_Gordon_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Handwrite_Gordon_24_List" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Handwrite_Gordon_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="50" name="Handwrite_Gordon_50" size="50" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Handwrite_Kreuz_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="18" name="HUD_Click_To_Continue" size="18" source="NanumGothic.ttf"/>
+		<font gensize="24" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="20" name="HUD_ItemName" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="18" name="HUD_Minigame_Instructions" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="HUD_Objective_Info" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="24" name="HUD_Skip_Cutscene" size="24" source="NanumGothic.ttf"/>
+		<font gensize="20" name="HUD_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Journal_Buttons" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Journal_Clue_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Journal_Clue_Title" size="24" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Journal_Objective_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Journal_Objective_Title" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Journal_People_Name" size="30" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Journal_People_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="25" name="MG_Mahjong_Text" size="25" source="NanumGothic.ttf"/>
+		<font gensize="32" name="MM_Button" size="32" source="NanumGothic.ttf"/>
+		<font gensize="25" name="MM_Button_Medium" size="25" source="NanumGothic.ttf"/>
+		<font gensize="32" name="MM_Unlock" size="32" source="NanumGothic.ttf"/>
+		<font gensize="23" name="MM_Welcome" size="23" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Newspaper_Date" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Newspaper_Name" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Newspaper_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Newspaper_Title" size="18" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:1" shadowoffset="0:2" size="16" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Pac_dialog_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="23" name="Paywall_BulletPoints" size="23" source="NanumGothic.ttf"/>
+		<font gensize="23" name="ProfileName" size="23" source="NanumGothic.ttf"/>
+		<font gensize="24" name="rotor_discount_label_large" shadowcolor="0.498039:0:0.576471:1" shadowoffset="2:2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Tutorial_only_mid" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="tutorial_skip" size="18" source="NanumGothic.ttf"/>
+		<font gensize="24" name="tutorial_yes_no" size="24" source="NanumGothic.ttf"/>
+	</language>
+	<language name="pl">
+		<font gensize="16" name="Newspaper_Text" size="16" source="Alegreya-Regular.ttf"/>
+	</language>
+	<language name="pp">
+		<font baselineyoffset="5" gensize="26" name="MM_Unlock" size="26" source="CrimsonText-SemiboldItalic.ttf"/>
+	</language>
+	<language name="pt">
+		<font baselineyoffset="5" gensize="26" name="MM_Unlock" size="26" source="CrimsonText-SemiboldItalic.ttf"/>
+	</language>
+	<language name="ru">
+		<font gensize="20" name="achi_progress" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="achi_text" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="30" name="achi_title" size="30" source="PT_Serif_Regular.ttf"/>
+		<font baselineyoffset="6" gensize="18" name="achi_title_small" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="Asylum_Info_18" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="Asylum_Info_20" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="Asylum_Info_24" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="30" name="Asylum_Info_30" size="30" source="PT_Serif_Regular.ttf"/>
+		<font gensize="40" name="Asylum_Info_40" size="40" source="PT_Serif_Regular.ttf"/>
+		<font gensize="40" name="Credits_Position" size="40" source="PT_Serif_Regular.ttf"/>
+		<font gensize="70" name="GUI_Act" size="70" source="PT_Serif_Italic.ttf"/>
+		<font gensize="20" name="GUI_BlackBars" size="20" source="PT_Serif_Italic.ttf"/>
+		<font gensize="32" name="GUI_Button" size="32" source="PT_Serif_Italic.ttf"/>
+		<font gensize="25" name="GUI_Button_Medium" size="25" source="PT_Serif_Italic.ttf"/>
+		<font baselineyoffset="5" gensize="30" name="GUI_Button_Rate" size="30" source="PT_Serif_Italic.ttf"/>
+		<font gensize="22" name="GUI_Button_Small" size="22" source="PT_Serif_Italic.ttf"/>
+		<font gensize="16" name="GUI_Clue_Name" size="16" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="GUI_CursorContext" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="GUI_Dialogs_Corrupted_Profile" size="18" source="PT_Serif_Regular.ttf"/>
+		<font baselineyoffset="-6" gensize="28" name="GUI_Dialogs_Text" size="28" source="PT_Serif_Regular.ttf"/>
+		<font gensize="22" name="GUI_Difficulty_Text" size="22" source="PT_Serif_Regular.ttf"/>
+		<font gensize="30" name="GUI_Difficulty_Title" size="30" source="PT_Serif_Italic.ttf"/>
+		<font gensize="18" name="GUI_Help_Text" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="GUI_Help_Title" size="20" source="PT_Serif_Italic.ttf"/>
+		<font gensize="15" name="GUI_Item_Name" size="15" source="PT_Serif_Regular.ttf"/>
+		<font gensize="30" name="GUI_Loading" size="30" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="GUI_New_Item_Name" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="GUI_New_Item_Title" size="20" source="PT_Serif_Italic.ttf"/>
+		<font gensize="18" name="GUI_Options_Text" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="GUI_Paywall_Text" size="18" source="PT_Serif_Italic.ttf"/>
+		<font gensize="30" name="Handwrite_Ashley_30" size="30" source="PT_Serif_Regular.ttf"/>
+		<font gensize="40" name="Handwrite_Ashley_40" size="40" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="Handwrite_Crow_20" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="Handwrite_Crow_24" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="30" name="Handwrite_Crow_30" size="30" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="Handwrite_Ginger_20" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="Handwrite_Gordon_20" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="Handwrite_Gordon_24" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="Handwrite_Gordon_24_List" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="30" name="Handwrite_Gordon_30" size="30" source="PT_Serif_Regular.ttf"/>
+		<font gensize="50" name="Handwrite_Gordon_50" size="50" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="Handwrite_Kreuz_24" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="HUD_Click_To_Continue" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="HUD_ItemName" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="HUD_Minigame_Instructions" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="HUD_Objective_Info" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="HUD_Skip_Cutscene" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="HUD_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="Journal_Buttons" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="Journal_Clue_Text" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="Journal_Clue_Title" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="Journal_Objective_Text" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="Journal_Objective_Title" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="30" name="Journal_People_Name" size="30" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="Journal_People_Text" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="25" name="MG_Mahjong_Text" size="25" source="PT_Serif_Regular.ttf"/>
+		<font gensize="32" name="MM_Button" size="32" source="PT_Serif_Regular.ttf"/>
+		<font gensize="25" name="MM_Button_Medium" size="25" source="PT_Serif_Regular.ttf"/>
+		<font gensize="28" name="MM_Unlock" size="28" source="PT_Serif_Regular.ttf"/>
+		<font gensize="23" name="MM_Welcome" size="23" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="Newspaper_Date" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" name="Newspaper_Name" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="Newspaper_Text" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="Newspaper_Title" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="PT_Serif_Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:1" shadowoffset="0:2" size="16" source="PT_Serif_Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="PT_Serif_Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="PT_Serif_Regular.ttf"/>
+		<font gensize="23" name="Paywall_BulletPoints" size="23" source="PT_Serif_Regular.ttf"/>
+		<font gensize="23" name="ProfileName" size="23" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="rotor_discount_label_large" shadowcolor="0.498039:0:0.576471:1" shadowoffset="2:2" size="24" source="PT_Serif_Regular.ttf"/>
+		<font gensize="20" lineheight="30" name="Tutorial_only_mid" size="20" source="PT_Serif_Regular.ttf"/>
+		<font gensize="18" name="tutorial_skip" size="18" source="PT_Serif_Regular.ttf"/>
+		<font gensize="24" name="tutorial_yes_no" size="24" source="PT_Serif_Regular.ttf"/>
+	</language>
+	<language name="zh">
+		<font gensize="20" name="achi_progress" size="20" source="uming.ttc"/>
+		<font gensize="20" name="achi_text" size="20" source="uming.ttc"/>
+		<font gensize="30" name="achi_title" size="30" source="uming.ttc"/>
+		<font baselineyoffset="6" gensize="18" name="achi_title_small" size="18" source="uming.ttc"/>
+		<font gensize="18" name="Asylum_Info_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Asylum_Info_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Asylum_Info_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Asylum_Info_30" size="30" source="uming.ttc"/>
+		<font gensize="40" name="Asylum_Info_40" size="40" source="uming.ttc"/>
+		<font gensize="40" name="Credits_Position" size="40" source="uming.ttc"/>
+		<font gensize="70" name="GUI_Act" size="70" source="uming.ttc"/>
+		<font gensize="20" name="GUI_BlackBars" size="20" source="uming.ttc"/>
+		<font gensize="32" name="GUI_Button" size="32" source="uming.ttc"/>
+		<font gensize="25" name="GUI_Button_Medium" size="25" source="uming.ttc"/>
+		<font gensize="32" name="GUI_Button_Rate" size="32" source="uming.ttc"/>
+		<font gensize="22" name="GUI_Button_Small" size="22" source="uming.ttc"/>
+		<font gensize="16" name="GUI_Clue_Name" size="16" source="uming.ttc"/>
+		<font gensize="20" name="GUI_CursorContext" size="20" source="uming.ttc"/>
+		<font gensize="18" name="GUI_Dialogs_Corrupted_Profile" size="18" source="uming.ttc"/>
+		<font baselineyoffset="-4" gensize="28" name="GUI_Dialogs_Text" size="28" source="uming.ttc"/>
+		<font gensize="22" name="GUI_Difficulty_Text" size="22" source="uming.ttc"/>
+		<font gensize="30" name="GUI_Difficulty_Title" size="30" source="uming.ttc"/>
+		<font gensize="18" name="GUI_Help_Text" size="18" source="uming.ttc"/>
+		<font gensize="20" name="GUI_Help_Title" size="20" source="uming.ttc"/>
+		<font gensize="15" name="GUI_Item_Name" size="15" source="uming.ttc"/>
+		<font gensize="30" name="GUI_Loading" size="30" source="uming.ttc"/>
+		<font gensize="18" name="GUI_New_Item_Name" size="18" source="uming.ttc"/>
+		<font gensize="20" name="GUI_New_Item_Title" size="20" source="uming.ttc"/>
+		<font gensize="18" name="GUI_Options_Text" size="18" source="uming.ttc"/>
+		<font gensize="18" name="GUI_Paywall_Text" size="18" source="uming.ttc"/>
+		<font gensize="30" name="Handwrite_Ashley_30" size="30" source="uming.ttc"/>
+		<font gensize="40" name="Handwrite_Ashley_40" size="40" source="uming.ttc"/>
+		<font gensize="20" name="Handwrite_Crow_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Handwrite_Crow_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Handwrite_Crow_30" size="30" source="uming.ttc"/>
+		<font gensize="20" name="Handwrite_Ginger_20" size="20" source="uming.ttc"/>
+		<font gensize="20" name="Handwrite_Gordon_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Handwrite_Gordon_24" size="24" source="uming.ttc"/>
+		<font gensize="24" name="Handwrite_Gordon_24_List" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Handwrite_Gordon_30" size="30" source="uming.ttc"/>
+		<font gensize="50" name="Handwrite_Gordon_50" size="50" source="uming.ttc"/>
+		<font gensize="24" name="Handwrite_Kreuz_24" size="24" source="uming.ttc"/>
+		<font gensize="18" name="HUD_Click_To_Continue" size="18" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="20" name="HUD_ItemName" size="20" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="18" name="HUD_Minigame_Instructions" size="18" source="uming.ttc"/>
+		<font gensize="20" name="HUD_Objective_Info" size="20" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Skip_Cutscene" size="24" source="uming.ttc"/>
+		<font gensize="20" name="HUD_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="uming.ttc"/>
+		<font gensize="20" name="Journal_Buttons" size="20" source="uming.ttc"/>
+		<font gensize="18" name="Journal_Clue_Text" size="18" source="uming.ttc"/>
+		<font gensize="24" name="Journal_Clue_Title" size="24" source="uming.ttc"/>
+		<font gensize="18" name="Journal_Objective_Text" size="18" source="uming.ttc"/>
+		<font gensize="24" name="Journal_Objective_Title" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Journal_People_Name" size="30" source="uming.ttc"/>
+		<font gensize="18" name="Journal_People_Text" size="18" source="uming.ttc"/>
+		<font gensize="25" name="MG_Mahjong_Text" size="25" source="uming.ttc"/>
+		<font gensize="32" name="MM_Button" size="32" source="uming.ttc"/>
+		<font gensize="25" name="MM_Button_Medium" size="25" source="uming.ttc"/>
+		<font gensize="32" name="MM_Unlock" size="32" source="uming.ttc"/>
+		<font baselineyoffset="-2" gensize="23" name="MM_Welcome" size="23" source="uming.ttc"/>
+		<font gensize="18" name="Newspaper_Date" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Newspaper_Name" size="20" source="uming.ttc"/>
+		<font gensize="18" name="Newspaper_Text" size="18" source="uming.ttc"/>
+		<font gensize="18" name="Newspaper_Title" size="18" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="uming.ttc"/>
+		<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:1" shadowoffset="0:2" size="16" source="uming.ttc"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="23" name="Paywall_BulletPoints" size="23" source="uming.ttc"/>
+		<font gensize="23" name="ProfileName" size="23" source="uming.ttc"/>
+		<font gensize="24" name="rotor_discount_label_large" shadowcolor="0.498039:0:0.576471:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="20" name="Tutorial_only_mid" size="20" source="uming.ttc"/>
+		<font gensize="18" name="tutorial_skip" size="18" source="uming.ttc"/>
+		<font gensize="24" name="tutorial_yes_no" size="24" source="uming.ttc"/>
+	</language>
+	<language name="zt">
+		<font gensize="20" name="achi_progress" size="20" source="uming.ttc"/>
+		<font gensize="20" name="achi_text" size="20" source="uming.ttc"/>
+		<font gensize="30" name="achi_title" size="30" source="uming.ttc"/>
+		<font gensize="18" name="achi_title_small" size="18" source="uming.ttc"/>
+		<font gensize="18" name="Asylum_Info_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Asylum_Info_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Asylum_Info_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Asylum_Info_30" size="30" source="uming.ttc"/>
+		<font gensize="40" name="Asylum_Info_40" size="40" source="uming.ttc"/>
+		<font gensize="40" name="Credits_Position" size="40" source="uming.ttc"/>
+		<font gensize="70" name="GUI_Act" size="70" source="uming.ttc"/>
+		<font gensize="20" name="GUI_BlackBars" size="20" source="uming.ttc"/>
+		<font gensize="32" name="GUI_Button" size="32" source="uming.ttc"/>
+		<font gensize="25" name="GUI_Button_Medium" size="25" source="uming.ttc"/>
+		<font gensize="32" name="GUI_Button_Rate" size="32" source="uming.ttc"/>
+		<font gensize="22" name="GUI_Button_Small" size="22" source="uming.ttc"/>
+		<font gensize="16" name="GUI_Clue_Name" size="16" source="uming.ttc"/>
+		<font gensize="20" name="GUI_CursorContext" size="20" source="uming.ttc"/>
+		<font gensize="18" name="GUI_Dialogs_Corrupted_Profile" size="18" source="uming.ttc"/>
+		<font baselineyoffset="-4" gensize="28" name="GUI_Dialogs_Text" size="28" source="uming.ttc"/>
+		<font gensize="22" name="GUI_Difficulty_Text" size="22" source="uming.ttc"/>
+		<font gensize="30" name="GUI_Difficulty_Title" size="30" source="uming.ttc"/>
+		<font gensize="18" name="GUI_Help_Text" size="18" source="uming.ttc"/>
+		<font gensize="20" name="GUI_Help_Title" size="20" source="uming.ttc"/>
+		<font gensize="15" name="GUI_Item_Name" size="15" source="uming.ttc"/>
+		<font gensize="30" name="GUI_Loading" size="30" source="uming.ttc"/>
+		<font gensize="18" name="GUI_New_Item_Name" size="18" source="uming.ttc"/>
+		<font gensize="20" name="GUI_New_Item_Title" size="20" source="uming.ttc"/>
+		<font gensize="18" name="GUI_Options_Text" size="18" source="uming.ttc"/>
+		<font gensize="18" name="GUI_Paywall_Text" size="18" source="uming.ttc"/>
+		<font gensize="30" name="Handwrite_Ashley_30" size="30" source="uming.ttc"/>
+		<font gensize="40" name="Handwrite_Ashley_40" size="40" source="uming.ttc"/>
+		<font gensize="20" name="Handwrite_Crow_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Handwrite_Crow_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Handwrite_Crow_30" size="30" source="uming.ttc"/>
+		<font gensize="20" name="Handwrite_Ginger_20" size="20" source="uming.ttc"/>
+		<font gensize="20" name="Handwrite_Gordon_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Handwrite_Gordon_24" size="24" source="uming.ttc"/>
+		<font gensize="24" name="Handwrite_Gordon_24_List" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Handwrite_Gordon_30" size="30" source="uming.ttc"/>
+		<font gensize="50" name="Handwrite_Gordon_50" size="50" source="uming.ttc"/>
+		<font gensize="24" name="Handwrite_Kreuz_24" size="24" source="uming.ttc"/>
+		<font gensize="18" name="HUD_Click_To_Continue" size="18" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="20" name="HUD_ItemName" size="20" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="18" name="HUD_Minigame_Instructions" size="18" source="uming.ttc"/>
+		<font gensize="20" name="HUD_Objective_Info" size="20" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Skip_Cutscene" size="24" source="uming.ttc"/>
+		<font gensize="20" name="HUD_Title" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="uming.ttc"/>
+		<font gensize="20" name="Journal_Buttons" size="20" source="uming.ttc"/>
+		<font gensize="18" name="Journal_Clue_Text" size="18" source="uming.ttc"/>
+		<font gensize="24" name="Journal_Clue_Title" size="24" source="uming.ttc"/>
+		<font gensize="18" name="Journal_Objective_Text" size="18" source="uming.ttc"/>
+		<font gensize="24" name="Journal_Objective_Title" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Journal_People_Name" size="30" source="uming.ttc"/>
+		<font gensize="18" name="Journal_People_Text" size="18" source="uming.ttc"/>
+		<font gensize="25" name="MG_Mahjong_Text" size="25" source="uming.ttc"/>
+		<font gensize="32" name="MM_Button" size="32" source="uming.ttc"/>
+		<font gensize="25" name="MM_Button_Medium" size="25" source="uming.ttc"/>
+		<font gensize="32" name="MM_Unlock" size="32" source="uming.ttc"/>
+		<font baselineyoffset="-2" gensize="23" name="MM_Welcome" size="23" source="uming.ttc"/>
+		<font gensize="18" name="Newspaper_Date" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Newspaper_Name" size="20" source="uming.ttc"/>
+		<font gensize="18" name="Newspaper_Text" size="18" source="uming.ttc"/>
+		<font gensize="18" name="Newspaper_Title" size="18" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="uming.ttc"/>
+		<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:1" shadowoffset="0:2" size="16" source="uming.ttc"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_title" shadowcolor="0:0:0:1" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="23" name="Paywall_BulletPoints" size="23" source="uming.ttc"/>
+		<font gensize="23" name="ProfileName" size="23" source="uming.ttc"/>
+		<font gensize="24" name="rotor_discount_label_large" shadowcolor="0.498039:0:0.576471:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="20" name="Tutorial_only_mid" size="20" source="uming.ttc"/>
+		<font gensize="18" name="tutorial_skip" size="18" source="uming.ttc"/>
+		<font gensize="24" name="tutorial_yes_no" size="24" source="uming.ttc"/>
+	</language>
+</fontscript>

@@ -1,0 +1,48 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="True">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.0" Volume="1.00" 
+      FileName="ambient_04.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+<CSequenceContainer Delay="0" Looped="True">
+            <CSample>
+                <CSampleFile Pan="0.00" Pitch="0.800" Volume="1.00" 
+      FileName="ambient_tremors_3.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+
+<CSequenceContainer Delay="0.0" Looped="True">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.0" Volume="1.00" 
+      FileName="ambient_creatures_4.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+<CSequenceContainer Delay="0" Looped="True">
+            <CSample>
+                <CSampleFile Pan="0.00" Pitch="0.800" Volume="1.00" 
+      FileName="ambient_creatures_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+ 
+ 
+ 
+ 
+
+
+    </CSoundContainer>
+</Sound>
+

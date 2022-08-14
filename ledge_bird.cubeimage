@@ -1,0 +1,14 @@
+<animatedImage fps="15" blendframes="1" width="1060" height="420"> 
+	<frame source="empty_texture.png" dx="1039" dy="304" width="21" height="34"></frame>
+	<frame source="ledge_bird_bird_animation_001.png" dx="1039" dy="304" width="21" height="34"></frame>
+	<frame source="ledge_bird_bird_animation_002.png" dx="948" dy="183" width="112" height="237"></frame>
+	<frame source="ledge_bird_bird_animation_003.png" dx="816" dy="172" width="194" height="208"></frame>
+	<frame source="ledge_bird_bird_animation_004.png" dx="748" dy="143" width="141" height="234"></frame>
+	<frame source="ledge_bird_bird_animation_005.png" dx="647" dy="150" width="135" height="197"></frame>
+	<frame source="ledge_bird_bird_animation_006.png" dx="526" dy="123" width="131" height="174"></frame>
+	<frame source="ledge_bird_bird_animation_007.png" dx="415" dy="73" width="127" height="198"></frame>
+	<frame source="ledge_bird_bird_animation_008.png" dx="291" dy="14" width="143" height="234"></frame>
+	<frame source="ledge_bird_bird_animation_009.png" dx="109" dy="0" width="210" height="162"></frame>
+	<frame source="ledge_bird_bird_animation_010.png" dx="0" dy="0" width="205" height="97"></frame>
+	<frame source="empty_texture.png" dx="1039" dy="304" width="21" height="34"></frame>
+</animatedImage >

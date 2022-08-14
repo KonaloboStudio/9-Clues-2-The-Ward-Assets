@@ -1,0 +1,22 @@
+<animatedImage fps="30" blendframes="0" width="74" height="54">
+	<frame source="cursor_left.png" dx="0" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="1" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="2" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="3" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="4" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="5" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="6" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="7" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="8" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="9" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="10" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="9" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="8" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="7" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="6" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="5" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="4" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="3" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="2" dy="0" width="64" height="54"></frame>
+	<frame source="cursor_left.png" dx="1" dy="0" width="64" height="54"></frame>
+</animatedImage>

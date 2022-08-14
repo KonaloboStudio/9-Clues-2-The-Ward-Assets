@@ -1,0 +1,7 @@
+<animatedImage fps="2" blendframes="1" width="1366" height="768">
+	<frame source="_BlackTex.png" dx="0" dy="0" width="1366" height="768"></frame>
+	<frame source="hud_blink4.png" dx="0" dy="0" width="1366" height="768"></frame>
+	<frame source="hud_blink3.png" dx="0" dy="0" width="1366" height="768"></frame>
+	<frame source="hud_blink1.png" dx="0" dy="0" width="1366" height="768"></frame>
+	<frame source="empty_texture.png" dx="0" dy="0" width="1366" height="768"></frame>
+</animatedImage>

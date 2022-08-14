@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="1">
+	<frame source="mahjong_chains_1.png"></frame>
+	<frame source="mahjong_chains_2.png"></frame>
+	<frame source="mahjong_chains_3.png"></frame>
+</animatedImage>

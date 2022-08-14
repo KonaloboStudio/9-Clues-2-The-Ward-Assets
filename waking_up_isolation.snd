@@ -1,0 +1,23 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="ambient_tremors_3.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="ambient_walking_up.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+ 
+
+    </CSoundContainer>
+</Sound>
+

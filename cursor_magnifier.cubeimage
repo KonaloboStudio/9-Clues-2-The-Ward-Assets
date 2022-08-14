@@ -1,0 +1,18 @@
+<animatedImage fps="20" blendframes="0" width="48" height="64">
+	<frame source="cursor_magnifier.png" dx="0" dy="0" width="48" height="64"></frame>
+	<frame source="cursor_magnifier.png" dx="1" dy="2" width="45" height="60"></frame>
+	<frame source="cursor_magnifier.png" dx="3" dy="4" width="42" height="56"></frame>
+	<frame source="cursor_magnifier.png" dx="4" dy="6" width="39" height="52"></frame>
+	<!--
+	<frame source="cursor_magnifier.png" dx="6" dy="8" width="36" height="48"></frame>
+	<frame source="cursor_magnifier.png" dx="7" dy="10" width="33" height="44"></frame>
+	<frame source="cursor_magnifier.png" dx="9" dy="12" width="30" height="40"></frame>
+	<frame source="cursor_magnifier.png" dx="10" dy="14" width="27" height="36"></frame>
+	<frame source="cursor_magnifier.png" dx="9" dy="12" width="30" height="40"></frame>
+	<frame source="cursor_magnifier.png" dx="7" dy="10" width="33" height="44"></frame>
+	-->
+	<frame source="cursor_magnifier.png" dx="6" dy="8" width="36" height="48"></frame>
+	<frame source="cursor_magnifier.png" dx="4" dy="6" width="39" height="52"></frame>
+	<frame source="cursor_magnifier.png" dx="3" dy="4" width="42" height="56"></frame>
+	<frame source="cursor_magnifier.png" dx="1" dy="2" width="45" height="60"></frame>
+</animatedImage>

@@ -1,0 +1,14 @@
+<animatedImage fps="12" blendframes="0" width="150" height="170"> 
+	<frame source="zoom_garden_tree_bird_bird_animation_001.png" dx="62" dy="103" width="77" height="67"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_002.png" dx="60" dy="102" width="77" height="67"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_003.png" dx="42" dy="102" width="95" height="66"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_004.png" dx="16" dy="92" width="132" height="73"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_005.png" dx="22" dy="79" width="122" height="84"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_006_.png" dx="16" dy="81" width="134" height="67"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_007.png" dx="33" dy="74" width="110" height="62"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_008.png" dx="43" dy="56" width="100" height="62"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_009.png" dx="20" dy="36" width="110" height="62"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_010.png" dx="0" dy="11" width="135" height="67"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_011.png" dx="11" dy="0" width="109" height="59"></frame>
+	<frame source="zoom_garden_tree_bird_bird_animation_012.png" dx="7" dy="0" width="105" height="30"></frame>
+</animatedImage >

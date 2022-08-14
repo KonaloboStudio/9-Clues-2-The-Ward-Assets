@@ -1,0 +1,14 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.700" Volume="1.00" 
+      FileName="exit_close_machine_room.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+    </CSoundContainer>
+</Sound>
+

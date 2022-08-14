@@ -1,0 +1,25 @@
+<animatedImage fps="30" blendframes="0">
+	<frame source="hint_anim_rotate_0025.png"></frame>
+	<frame source="hint_anim_rotate_0026.png"></frame>
+	<frame source="hint_anim_rotate_0027.png"></frame>
+	<frame source="hint_anim_rotate_0028.png"></frame>
+	<frame source="hint_anim_rotate_0029.png"></frame>
+	<frame source="hint_anim_rotate_0030.png"></frame>
+	<frame source="hint_anim_rotate_0031.png"></frame>
+	<frame source="hint_anim_rotate_0032.png"></frame>
+	<frame source="hint_anim_rotate_0033.png"></frame>
+	<frame source="hint_anim_rotate_0034.png"></frame>
+	<frame source="hint_anim_rotate_0035.png"></frame>
+	<frame source="hint_anim_rotate_0036.png"></frame>
+	<frame source="hint_anim_rotate_0037.png"></frame>
+	<frame source="hint_anim_rotate_0038.png"></frame>
+	<frame source="hint_anim_rotate_0039.png"></frame>
+	<frame source="hint_anim_rotate_0040.png"></frame>
+	<frame source="hint_anim_rotate_0041.png"></frame>
+	<frame source="hint_anim_rotate_0042.png"></frame>
+	<frame source="hint_anim_rotate_0043.png"></frame>
+	<frame source="hint_anim_rotate_0044.png"></frame>
+	<frame source="hint_anim_rotate_0045.png"></frame>
+	<frame source="hint_anim_rotate_0046.png"></frame>
+	<frame source="hint_anim_rotate_0047.png"></frame>
+</animatedImage>

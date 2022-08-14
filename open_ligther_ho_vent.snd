@@ -1,0 +1,5 @@
+<Sound Pan="0.00" Pitch="1.000" Volume="1.000" >
+	<CSample>
+		<CSampleFile Pan="0.000" Weight="5" Pitch="0.80" Volume="0.440" FadeOut ="0" Looped="false" FileName="open_ligther_ho_vent.wav"></CSampleFile>
+	</CSample>
+</Sound>

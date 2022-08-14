@@ -1,0 +1,19 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+
+    <CSoundContainer>
+
+        <CSample>
+           <CSampleFile Pan="0.000" Looped="false" Pitch="0.800" Volume="0.700" 
+FileName="door_handle_try_open_distillery_inside.wav" ></CSampleFile>
+        </CSample>
+
+                <CSample>
+           <CSampleFile Pan="0.500" Looped="false" Pitch="1.00" Volume="0.600" 
+FileName="door_opened_atrium_east_security_door.wav" ></CSampleFile>
+        </CSample>
+
+
+
+
+    </CSoundContainer>
+</Sound>

@@ -1,0 +1,89 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+ 
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="retrospection_reversed_tv.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="RETROSPECTION_Distillery_Inside_sequence.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+PRZERYWNIKI
+
+<CSequenceContainer Delay="6.5" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.500" Volume="1.00" 
+      FileName="lead_investigator_mode.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="10.9" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.500" Volume="1.00" 
+      FileName="lead_investigator_mode.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="18.5" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.500" Volume="1.00" 
+      FileName="lead_investigator_mode.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+<CSequenceContainer Delay="22.9" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.500" Volume="1.00" 
+      FileName="lead_investigator_mode.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="26.5" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.500" Volume="1.00" 
+      FileName="lead_investigator_mode.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="30.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.500" Volume="1.00" 
+      FileName="lead_investigator_mode.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="33.7" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.500" Volume="1.00" 
+      FileName="lead_investigator_mode.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="35.2" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.500" Volume="1.00" 
+      FileName="lead_investigator_mode.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+<CSequenceContainer Delay="36.5" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.500" Volume="1.00" 
+      FileName="lead_investigator_mode.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+    </CSoundContainer>
+</Sound>
+

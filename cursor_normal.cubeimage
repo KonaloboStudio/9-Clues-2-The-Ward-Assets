@@ -1,0 +1,3 @@
+<animatedImage fps="12" blendframes="0">
+	<frame source="cursor_standard.png"></frame>
+</animatedImage>

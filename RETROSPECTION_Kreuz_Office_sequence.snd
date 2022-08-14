@@ -1,0 +1,32 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+ 
+AMBINET
+
+ <CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="RETROSPECTION_Kreuz_Office_sequence.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>     
+
+
+
+<CSequenceContainer Delay="2.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="retrospection_relish.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+
+
+
+
+
+
+    </CSoundContainer>
+</Sound>
+

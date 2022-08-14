@@ -1,0 +1,5 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="the_ward_menu_foam_1.png"></frame>
+	<frame source="the_ward_menu_foam_2.png"></frame>
+	<frame source="the_ward_menu_foam_3.png"></frame>
+</animatedImage>

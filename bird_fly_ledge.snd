@@ -1,0 +1,39 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="ambient_swish_01.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="ambient_crow_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.80" 
+      FileName="ambient_tremors_3.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="1" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.500" Volume="0.60" 
+      FileName="ambient_broken_glass_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+ 
+ 
+ 
+
+
+    </CSoundContainer>
+</Sound>
+

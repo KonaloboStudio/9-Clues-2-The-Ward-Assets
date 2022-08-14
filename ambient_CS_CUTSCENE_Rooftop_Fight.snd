@@ -1,0 +1,160 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+TREMORS
+
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.300" Volume="1.0" 
+      FileName="zoom_tremor.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.0" 
+      FileName="retrospection_relish.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+THROW
+
+
+
+
+STEPS
+
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.60" 
+      FileName="ambient_steps_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+RUSTLING
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.500" Volume="1.00" 
+      FileName="ambient_rustling_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="2.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.500" Volume="1.00" 
+      FileName="ambient_rustling_3.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="1.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.00" 
+      FileName="ambient_rustling_3.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="1.6" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.400" Volume="1.00" 
+      FileName="ambient_rustling_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="3.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.500" Volume="1.00" 
+      FileName="ambient_rustling_3.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="2.8" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.00" 
+      FileName="ambient_rustling_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="3.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.400" Volume="1.00" 
+      FileName="ambient_rustling_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="4.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.500" Volume="1.00" 
+      FileName="ambient_rustling_3.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+
+
+
+<CSequenceContainer Delay="2.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.00" 
+      FileName="ambient_step_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+
+
+GRAB
+
+
+<CSequenceContainer Delay="1.5" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.500" Volume="1.00" 
+      FileName="ambient_grab_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="3.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.500" Volume="1.00" 
+      FileName="ambient_grab_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="4.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.500" Volume="1.00" 
+      FileName="ambient_grab_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+ 
+YELLS
+
+<CSequenceContainer Delay="1.3" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.00" 
+      FileName="ambient_yell_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="3.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="ambient_yell_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="4.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.00" Volume="1.00" 
+      FileName="ambient_yell_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+ 
+
+    </CSoundContainer>
+</Sound>
+

@@ -1,0 +1,21 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.400" Volume="0.70" 
+      FileName="rain_1_environment.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+ 
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.00" Volume="0.70" 
+      FileName="go_through_tunnel_machine_room.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+    </CSoundContainer>
+</Sound>
+

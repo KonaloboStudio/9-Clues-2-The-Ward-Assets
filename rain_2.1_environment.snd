@@ -1,0 +1,6 @@
+<Sound Pan="0.00" Pitch="0.800" Volume="0.600" Looped="true" >
+	<CSample>
+		<CSampleFile Pan="0.000" Weight="5" Pitch="1.000" Volume="1.00" 
+FadeOut ="0" FileName="rain_2_environment.wav"></CSampleFile>
+	</CSample>
+</Sound>

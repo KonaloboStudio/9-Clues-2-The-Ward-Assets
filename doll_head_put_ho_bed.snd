@@ -1,0 +1,6 @@
+<Sound Pan="1.00" Pitch="1.000" Volume="1.000" Looped="false" >
+	<CSample>
+		<CSampleFile Pan="0.000" Weight="1" Pitch="1.000" Volume="1.000" 
+FadeOut ="0" FileName="toyhead_ho_operating_room_stall.wav"></CSampleFile>
+	</CSample>
+</Sound>

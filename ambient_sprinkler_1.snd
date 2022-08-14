@@ -1,0 +1,22 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.50" 
+      FileName="ambient_sprinkler_1.wav" Looped="True"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+<CSequenceContainer Delay="0.0">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.200" Volume="0.40" 
+      FileName="rain_2_environment.wav" Looped="True"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+ 
+
+    </CSoundContainer>
+</Sound>
+

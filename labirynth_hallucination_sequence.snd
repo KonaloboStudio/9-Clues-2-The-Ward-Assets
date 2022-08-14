@@ -1,0 +1,66 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="False">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="2.7" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.70" 
+      FileName="gordon_retreating_labirynth_entrance.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="4.4" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.70" 
+      FileName="gordon_retreating_labirynth_entrance.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="7.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.70" 
+      FileName="gordon_retreating_labirynth_entrance.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="7.5" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.5" 
+      FileName="ambient_run_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+<CSequenceContainer Delay="7.5" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.00" Volume="0.6" 
+      FileName="ambient_rustling_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="9.7" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.00" Volume="0.6" 
+      FileName="ambient_rustling_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+<CSequenceContainer Delay="4.9" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.100" Volume="0.7" 
+      FileName="puppets_chasing_labirynth_entrance.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="11.5" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.70" 
+      FileName="puppets_jump_labirynth_entrance.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+ 
+
+    </CSoundContainer>
+</Sound>
+

@@ -1,0 +1,22 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.35" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.00" Volume="0.70" 
+      FileName="zoom_tremor.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="0.35" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.00" Volume="0.70" 
+      FileName="zoom_tremor_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+    </CSoundContainer>
+</Sound>
+

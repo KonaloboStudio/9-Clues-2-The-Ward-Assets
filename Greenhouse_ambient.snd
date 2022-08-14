@@ -1,0 +1,33 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+
+    <CSoundContainer>
+
+        <CSample>
+           <CSampleFile Pan="0.000" Looped="true" Pitch="0.800" Volume="0.700" 
+FileName="rain_3_environment.wav" ></CSampleFile>
+        </CSample> 
+        
+
+		<CRandomContainer Looped="true" DelayMin="2" DelayMax="9" WaitAfterMin="2" WaitAfterMax="9">
+
+
+			<CSample>
+			   <CSampleFile Pan="-0.100" Pitch="0.700" Volume="0.400" 
+	FileName="ambient_rustling_3.wav" ></CSampleFile>
+			</CSample>
+
+			<CSample>
+			   <CSampleFile Pan="-0.500" Pitch="1.300" Volume="0.600" 
+	FileName="ambient_crow_1.wav" ></CSampleFile>
+			</CSample>
+
+			<CSample>
+			   <CSampleFile Pan="0.800" Pitch="1.00" Volume="0.500" 
+	FileName="ambient_pipes_01.wav" ></CSampleFile>
+			</CSample>
+
+		</CRandomContainer>
+
+
+    </CSoundContainer>
+</Sound>

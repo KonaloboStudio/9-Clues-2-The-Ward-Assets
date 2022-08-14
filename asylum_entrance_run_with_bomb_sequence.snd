@@ -1,0 +1,42 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="False">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="4.5" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+      FileName="ambient_tremors_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+<CSequenceContainer Delay="1.1" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+      FileName="ambient_run_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="8.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+      FileName="ambient_rustling_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+<CSequenceContainer Delay="9.8" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.6" 
+      FileName="ambient_run_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+
+
+ 
+
+    </CSoundContainer>
+</Sound>
+

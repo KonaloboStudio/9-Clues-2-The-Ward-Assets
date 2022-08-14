@@ -1,0 +1,5 @@
+<animatedImage fps="7" blendframes="0">
+	<frame source="cursor_detective_1_system.png"></frame>
+	<frame source="cursor_detective_2_system.png"></frame>
+	<frame source="cursor_detective_3_system.png"></frame>
+</animatedImage>

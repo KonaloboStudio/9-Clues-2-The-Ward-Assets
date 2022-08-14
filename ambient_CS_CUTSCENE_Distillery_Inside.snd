@@ -1,0 +1,20 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="ambient_CS_CUTSCENE_Distillery_Inside.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+ 
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.70" 
+      FileName="rain_1_environment.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+    </CSoundContainer>
+</Sound>
+

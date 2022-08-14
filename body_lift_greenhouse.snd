@@ -1,0 +1,55 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.60" 
+      FileName="body_lift_greenhouse.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="0.2" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.50" 
+      FileName="ambient_steps_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="1.6" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.500" Volume="0.30" 
+      FileName="ambient_steps_3.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+<CSequenceContainer Delay="2.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.300" Volume="0.3" 
+      FileName="ambient_rustling_5.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+<CSequenceContainer Delay="2.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.300" Volume="0.3" 
+      FileName="ambient_impact_01.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+YEL
+
+<CSequenceContainer Delay="0.5" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.50" 
+      FileName="ambient_yell_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+ 
+
+
+    </CSoundContainer>
+</Sound>
+

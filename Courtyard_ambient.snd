@@ -1,0 +1,38 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+
+    <CSoundContainer>
+
+        <CSample>
+           <CSampleFile Pan="0.000" Looped="true" Pitch="0.700" Volume="0.700" 
+FileName="Asylim_entrance_ambient.wav" ></CSampleFile>
+        </CSample>
+
+        <CSample>
+           <CSampleFile Pan="0.300" Looped="true" Pitch="0.200" Volume="0.600" 
+FileName="Distillery_inside_ambient.wav" ></CSampleFile>
+        </CSample>
+
+    
+      
+        
+
+		<CRandomContainer Looped="true" DelayMin="2" DelayMax="9" WaitAfterMin="2" WaitAfterMax="9">
+
+
+	
+
+			<CSample>
+			   <CSampleFile Pan="0.600" Pitch="1.500" Volume="0.300" 
+	FileName="ambient_rustling_2.wav" ></CSampleFile>
+			</CSample>
+
+			<CSample>
+			   <CSampleFile Pan="0.200" Pitch="1.000" Volume="1.000" 
+	FileName="ambient_rustling_3.wav" ></CSampleFile>
+			</CSample>
+
+		</CRandomContainer>
+
+
+    </CSoundContainer>
+</Sound>

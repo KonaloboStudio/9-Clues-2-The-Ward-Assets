@@ -1,0 +1,23 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="puppet_shake_crows_office.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+      <CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.50" 
+      FileName="puppet_frightening_machine_room.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+ 
+ 
+
+
+    </CSoundContainer>
+</Sound>
+

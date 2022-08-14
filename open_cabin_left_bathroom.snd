@@ -1,0 +1,5 @@
+<Sound Pan="0.00" Pitch="1.000" Volume="1.000" Looped="false" >
+	<CSample>
+		<CSampleFile Pan="0.000" Weight="5" Pitch="1.400" Volume="1.000" FadeOut ="0" FileName="bedroom_opened_burned_room.wav"></CSampleFile>
+	</CSample>
+</Sound>

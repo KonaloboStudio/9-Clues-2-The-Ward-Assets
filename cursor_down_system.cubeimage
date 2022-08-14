@@ -1,0 +1,22 @@
+<animatedImage fps="30" blendframes="0" width="41" height="72">
+	<frame source="cursor_down_system.png" dx="0" dy="0" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="1" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="2" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="3" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="4" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="5" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="6" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="7" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="8" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="9" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="10" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="9" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="8" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="7" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="6" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="5" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="4" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="3" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="2" width="41" height="47"></frame>
+	<frame source="cursor_down_system.png" dx="0" dy="1" width="41" height="47"></frame>
+</animatedImage>

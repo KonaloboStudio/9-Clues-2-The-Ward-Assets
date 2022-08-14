@@ -1,0 +1,7 @@
+<animatedImage fps="4" blendframes="0" width="296" height="324">
+	<frame source="zoom_garden_ball_ball_ball_animation_001.png" dx="0" dy="0" width="296" height="324"></frame>
+	<frame source="zoom_garden_ball_ball_ball_animation_002.png" dx="0" dy="0" width="296" height="324"></frame>
+	<frame source="zoom_garden_ball_ball_ball_animation_003.png" dx="0" dy="0" width="296" height="324"></frame>
+	<frame source="zoom_garden_ball_ball_ball_animation_004.png" dx="0" dy="0" width="296" height="324"></frame>
+	<frame source="zoom_garden_ball_ball_ball_animation_005.png" dx="0" dy="0" width="296" height="324"></frame>
+</animatedImage>

@@ -1,0 +1,6 @@
+<Sound Pan="0.00" Pitch="1.000" Volume="1.000" Looped="false" >
+	<CSample>
+		<CSampleFile Pan="0.000" Weight="5" Pitch="1.000" Volume="1.000" FadeOut ="0" 
+FileName="tweezers_use_burned_generator_window.wav"></CSampleFile>
+	</CSample>
+</Sound>

@@ -1,0 +1,12 @@
+<animatedImage fps="20" blendframes="0" width="48" height="64">
+	<frame source="cursor_magnifier_system.png" dx="0" dy="0" width="36" height="48"></frame>
+	<frame source="cursor_magnifier_system.png" dx="1" dy="2" width="33" height="44"></frame>
+	<frame source="cursor_magnifier_system.png" dx="3" dy="4" width="30" height="40"></frame>
+	<frame source="cursor_magnifier_system.png" dx="4" dy="6" width="27" height="36"></frame>
+
+	<frame source="cursor_magnifier_system.png" dx="6" dy="8" width="24" height="32"></frame>
+	<frame source="cursor_magnifier_system.png" dx="4" dy="6" width="27" height="36"></frame>
+	<frame source="cursor_magnifier_system.png" dx="3" dy="4" width="30" height="40"></frame>
+	<frame source="cursor_magnifier_system.png" dx="1" dy="2" width="33" height="44"></frame>
+	
+</animatedImage>

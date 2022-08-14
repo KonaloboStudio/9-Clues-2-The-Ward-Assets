@@ -1,0 +1,29 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="lever_use_burned_generator.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+      <CSequenceContainer Delay="0.35" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.20" Volume="0.10" 
+      FileName="light_buzz_second_floor_1.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+      <CSequenceContainer Delay="0.2" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="0.50" Volume="1.00" 
+      FileName="on_left_generator_switch.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+    </CSoundContainer>
+</Sound>
+

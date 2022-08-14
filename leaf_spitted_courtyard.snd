@@ -1,0 +1,5 @@
+<Sound Pan="1.00" Pitch="1.000" Volume="1.000" Looped="false" >
+	<CSample>
+		<CSampleFile Pan="0.000" Weight="5" Pitch="0.400" Volume="0.400" FadeOut ="0" FileName="cork_ho_courtyard_locker.wav"></CSampleFile>
+	</CSample>
+</Sound>

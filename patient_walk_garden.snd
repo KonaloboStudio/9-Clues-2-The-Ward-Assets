@@ -1,0 +1,15 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.7" 
+      FileName="ambient_steps_2.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+ 
+
+
+    </CSoundContainer>
+</Sound>
+

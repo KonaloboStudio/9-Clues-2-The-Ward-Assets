@@ -1,0 +1,42 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+
+    <CSoundContainer>
+
+        <CSample>
+           <CSampleFile Pan="-0.400" Looped="true" Pitch="0.800" Volume="0.600" 
+FileName="Asylim_hall_ambient.wav" ></CSampleFile>
+        </CSample>
+
+
+        <CSample>
+           <CSampleFile Pan="-0.30" Looped="true" Pitch="1.00" Volume="0.500" 
+FileName="" ></CSampleFile>
+        </CSample>  
+      
+
+        <CSample>
+           <CSampleFile Pan="0.0" Looped="true" Pitch="1.100" Volume="0.500" 
+FileName="ambient_04.wav" ></CSampleFile>
+        </CSample>  
+      
+        
+
+		<CRandomContainer Looped="true" DelayMin="2" DelayMax="9" WaitAfterMin="2" WaitAfterMax="9">
+
+
+			<CSample>
+			   <CSampleFile Pan="-0.40" Pitch="0.700" Volume="0.200" 
+	FileName="ambient_steps_1.wav" ></CSampleFile>
+			</CSample>
+
+
+			<CSample>
+			   <CSampleFile Pan="0.300" Pitch="1.00" Volume="0.400" 
+	FileName="ambient_creak_02.wav" ></CSampleFile>
+			</CSample>
+
+		</CRandomContainer>
+
+
+    </CSoundContainer>
+</Sound>

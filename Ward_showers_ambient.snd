@@ -1,0 +1,27 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+
+    <CSoundContainer>
+
+        <CSample>
+           <CSampleFile Pan="1.00" Looped="true" Pitch="0.800" Volume="0.300" 
+FileName="ambient_water_03.wav" ></CSampleFile>
+        </CSample>
+
+		<CRandomContainer Looped="true" DelayMin="2" DelayMax="9" WaitAfterMin="2" WaitAfterMax="9">
+
+
+			<CSample>
+			   <CSampleFile Pan="0.300" Pitch="1.00" Volume="0.400" 
+	FileName="ambient_drop_02.wav" ></CSampleFile>
+			</CSample>
+
+			<CSample>
+			   <CSampleFile Pan="0.800" Pitch="0.70" Volume="0.200" 
+	FileName="ambient_fumes_1.wav" ></CSampleFile>
+			</CSample>
+
+		</CRandomContainer>
+
+
+    </CSoundContainer>
+</Sound>

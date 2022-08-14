@@ -1,0 +1,4 @@
+<animatedImage fps="4" blendframes="0">
+	<frame source="cursor_grab_1_system.png"></frame>
+	<frame source="cursor_grab_2_system.png"></frame>
+</animatedImage>

@@ -1,0 +1,22 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSoundContainer>
+
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.00" 
+      FileName="light_turning_on_operating_room_lamp.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+ 
+<CSequenceContainer Delay="0.0" Looped="False">
+            <CSample>
+                <CSampleFile Pan="0.000" Pitch="1.00" Volume="0.70" 
+      FileName="ambient_creak_05.wav"></CSampleFile>
+            </CSample>
+      </CSequenceContainer>
+
+
+
+    </CSoundContainer>
+</Sound>
+

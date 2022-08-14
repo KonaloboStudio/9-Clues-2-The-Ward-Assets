@@ -1,0 +1,46 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+
+    <CSoundContainer>
+
+        <CSample>
+           <CSampleFile Pan="0.000" Looped="true" Pitch="0.800" Volume="0.700" 
+FileName="Atrium_east_ambient.wav" ></CSampleFile>
+        </CSample>
+
+
+        <CSample>
+           <CSampleFile Pan="0.00" Looped="true" Pitch="0.500" Volume="0.400" 
+FileName="ambient_02.wav" ></CSampleFile>
+        </CSample>  
+      
+
+        <CSample>
+           <CSampleFile Pan="0.00" Looped="true" Pitch="0.800" Volume="0.700" 
+FileName="ambient_03.wav" ></CSampleFile>
+        </CSample>  
+      
+        
+
+		<CRandomContainer Looped="true" DelayMin="2" DelayMax="9" WaitAfterMin="2" WaitAfterMax="9">
+
+
+			<CSample>
+			   <CSampleFile Pan="-0.100" Pitch="0.700" Volume="0.300" 
+	FileName="ambient_drips_01.wav" ></CSampleFile>
+			</CSample>
+
+			<CSample>
+			   <CSampleFile Pan="-0.500" Pitch="0.300" Volume="0.600" 
+	FileName="ambient_step_4.1.wav" ></CSampleFile>
+			</CSample>
+
+			<CSample>
+			   <CSampleFile Pan="0.800" Pitch="1.00" Volume="0.500" 
+	FileName="ambient_step_3.wav" ></CSampleFile>
+			</CSample>
+
+		</CRandomContainer>
+
+
+    </CSoundContainer>
+</Sound>

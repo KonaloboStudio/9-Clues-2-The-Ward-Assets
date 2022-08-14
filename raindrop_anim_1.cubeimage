@@ -1,0 +1,7 @@
+<animatedImage fps="10" blendframes="1">
+	<frame source="empty_texture.png"></frame>
+	<frame source="rain_circle_1.png"></frame>
+	<frame source="rain_circle_2.png"></frame>
+	<frame source="empty_texture.png"></frame>
+	empty_texture
+</animatedImage>

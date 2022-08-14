@@ -1,0 +1,19 @@
+<animatedImage fps="15" blendframes="0">
+	<frame source="hint_anim_0010.png"></frame>
+	<frame source="hint_anim_0011.png"></frame>
+	<frame source="hint_anim_0012.png"></frame>
+	<frame source="hint_anim_0013.png"></frame>
+	<frame source="hint_anim_0014.png"></frame>
+	<frame source="hint_anim_0015.png"></frame>
+	<frame source="hint_anim_0016.png"></frame>
+	<frame source="hint_anim_0017.png"></frame>
+	<frame source="hint_anim_0018.png"></frame>
+	<frame source="hint_anim_0019.png"></frame>
+	<frame source="hint_anim_0020.png"></frame>
+	<frame source="hint_anim_0021.png"></frame>
+	<frame source="hint_anim_0022.png"></frame>
+	<frame source="hint_anim_0023.png"></frame>
+	<frame source="hint_anim_0024.png"></frame>
+	<frame source="hint_anim_0025.png"></frame>
+	<frame source="hint_anim_0010.png"></frame>
+</animatedImage>
